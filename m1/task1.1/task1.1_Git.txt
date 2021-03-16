@@ -1,0 +1,18 @@
+4bd0ce0 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+2881cc8 HEAD@{1}: checkout: moving from develop to master
+4bd0ce0 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{2}: commit (merge): Prelast
+ee13fa0 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+dd29400 HEAD@{4}: checkout: moving from styles to develop
+0dde636 (origin/styles, styles) HEAD@{5}: commit: New styles
+dd29400 HEAD@{6}: checkout: moving from develop to styles
+dd29400 HEAD@{7}: checkout: moving from images to develop
+ee13fa0 (origin/images, images) HEAD@{8}: commit: Commit
+d8790d8 HEAD@{9}: commit: Committed
+dd29400 HEAD@{10}: checkout: moving from develop to images
+dd29400 HEAD@{11}: commit: Third
+bda2aa4 HEAD@{12}: commit: Third
+dcbc03d HEAD@{13}: commit: Second
+2881cc8 HEAD@{14}: checkout: moving from master to develop
+2881cc8 HEAD@{15}: checkout: moving from develop to master
+2881cc8 HEAD@{16}: checkout: moving from master to develop
+2881cc8 HEAD@{17}: commit (initial): First commit
