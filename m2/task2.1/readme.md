@@ -18,14 +18,14 @@ Snapshots are used for backups.
 
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/develop/m2/task2.1/images/Vagrant/INITandUP.png"/>
  
- Connected by PuTTy
+ Connected by PuTTy.
 
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/develop/m2/task2.1/images/Vagrant/PuTTY.png"/>
 
- Stopped virtual machine
+ Stopped virtual machine.
 
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/develop/m2/task2.1/images/Vagrant/DELETE.png"/>
 
- Exported virtual machine
+ Exported virtual machine.
 
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/develop/m2/task2.1/images/Vagrant/EXPORT.png"/>
