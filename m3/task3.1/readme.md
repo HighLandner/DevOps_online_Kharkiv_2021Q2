@@ -29,7 +29,7 @@ Creating database backup file
 
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m3/task3.1/images/Backup.png">
 
-Troubles apeared while uploading dump on Windows. Next step are on Linux
+Troubles apeared while uploading dump on Windows. Next step is on Linux
 
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m3/task3.1/images/Upload.png">
 
