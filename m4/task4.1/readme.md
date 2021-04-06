@@ -1,6 +1,6 @@
 **Task 4.1**
-
 <br>
+
 **First net: four workstations and one hub.**
 <br>
 Results: ping from PC4 to PC0, hub sends requests to all connected workstations.
@@ -21,4 +21,15 @@ Results: ping from PC0 to Server0, similar result as previous net.
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.1/images/EL2.png">
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.1/images/EL21.png">
+<br>
+
+**Third net: four worlstations with one switch.**
+<br>
+Results: ping from PC0 to PC1, request was sent only to receiver.
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.1/images/Scheme3.png">
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.1/images/EL3.png">
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.1/images/PDU3.png">
 <br>
