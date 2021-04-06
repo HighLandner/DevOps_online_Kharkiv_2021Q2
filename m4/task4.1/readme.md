@@ -36,7 +36,7 @@ Results: ping from PC0 to PC1, request was sent only to receiver.
 
 **Fourth net: two subnets with two switches.**
 <br>
-Results: ping from PC1 to PC4 through two switches, results is similar as previous net.
+Results: ping from PC1 to PC3 through two switches, results is similar as previous net.
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.1/images/Scheme4.png">
 <br>
