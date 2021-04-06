@@ -33,3 +33,13 @@ Results: ping from PC0 to PC1, request was sent only to receiver.
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.1/images/PDU3.png">
 <br>
+
+**Fourth net: two subnets with two switches.**
+<br>
+Results: ping from PC1 to PC4 through two switches, results is similar as previous net.
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.1/images/Scheme4.png">
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.1/images/EL4.png">
+<br>
+
