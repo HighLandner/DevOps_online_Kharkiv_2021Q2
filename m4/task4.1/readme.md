@@ -1,6 +1,7 @@
 **Task 4.1**
+
 <br>
-First net: four workstations and one hub.
+**First net: four workstations and one hub.**
 <br>
 Results: ping from PC4 to PC0, hub sends requests to all connected workstations.
 <br>
@@ -10,7 +11,8 @@ Results: ping from PC4 to PC0, hub sends requests to all connected workstations.
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.1/images/PDU1.png">
 <br>
-Second net: two subnets with two hubs.
+
+**Second net: two subnets with two hubs.**
 <br>
 Results: ping from PC0 to Server0, similar result as previous net.
 <br>
