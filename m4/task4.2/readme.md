@@ -1,6 +1,34 @@
 **Task 4.2**
 <br>
-First part. One organisation that consists of two building each of them contains two flours
+
+**First part**
+<br>
+One organisation that consists of two buildings each of them contains two flours
+<br>
 with five workstations within it.
+<br>
 Results:
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.2/images/Scheme1.png">
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.2/images/EL1.png">
+<br>
+
+**Second part**
+<br>
+One organisation that consists of one building each of them contains four flours
+with subnets within it. There are three workstations within first subnet and there
+are five workstations within second one.
+<br>
+**!!!***For test and to the aim of workspace economy only two floursnare used with 
+<br>
+two workstations wothin each subnet.
+<br>
+Results:
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.2/images/Scheme2.png">
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.2/images/EL21.png">
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.2/images/EL22.png">
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.2/images/EL23.png">
+<br>
