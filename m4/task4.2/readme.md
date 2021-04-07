@@ -7,7 +7,7 @@ One organisation that consists of two buildings each of them contains two flours
 <br>
 with five workstations within it.
 <br>
-Results:
+Results. Ping from PC8 to PC18:
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.2/images/Scheme1.png">
 <br>
@@ -24,7 +24,7 @@ are five workstations within second one.
 <br>
 two workstations wothin each subnet.
 <br>
-Results:
+Results. Ping from PC4 to PC6:
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.2/images/Scheme2.png">
 <br>
@@ -44,7 +44,7 @@ with six workstations within it.
 <br>
 one workstation within each floor.
 <br>
-Results:
+Results. From PC8 to PC10:
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m4/task4.2/images/Scheme3.png">
 <br>
