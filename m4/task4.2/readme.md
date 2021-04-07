@@ -22,7 +22,7 @@ are five workstations within second one.
 <br>
 **!!!** For test and to the aim of workspace economy only two flours are used with 
 <br>
-two workstations wothin each subnet.
+two workstations within each subnet.
 <br>
 Results. Ping from PC4 to PC6:
 <br>
