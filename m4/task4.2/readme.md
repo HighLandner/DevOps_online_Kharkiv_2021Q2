@@ -20,7 +20,7 @@ One organisation that consists of one building each of them contains four flours
 with subnets within it. There are three workstations within first subnet and there
 are five workstations within second one.
 <br>
-**!!!**For test and to the aim of workspace economy only two floursnare used with 
+**!!!** For test and to the aim of workspace economy only two floursnare used with 
 <br>
 two workstations wothin each subnet.
 <br>
