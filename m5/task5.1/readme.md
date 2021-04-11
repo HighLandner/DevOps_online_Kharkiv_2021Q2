@@ -45,4 +45,22 @@ Command file determines filetype
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/filetype.png">
 <br>
-**Cd ~** turns user to home derictory
+"Cd ~" turns user to home derictory.
+<br>
+
+Inputting path to file
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/path_to_file.png">
+<br>
+
+Directory copied by cp temp/ and deleted by rmdir -r temp/
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/cp_file.png">
+<br>
+
+Hardlink and softlink
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/test.jpg">
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/hardlinks.jpg">
+<br>
