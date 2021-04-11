@@ -63,4 +63,6 @@ Hardlink and softlink
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/hard_and_soft.png">
 <br>
 Having deleted file after creating links hardlink was still working and outputting data and softlink was corrupted.
+<br>
 Hardlink is a "copy", softlink is a "pointer".
+
