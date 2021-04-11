@@ -9,7 +9,6 @@ Determined users and their brief info.
 <br>
 
 Commands:
-<br>
 ```
 usermod -l uswer user changes username from "user" to "uswer";
 passwd -d deletes user password;
@@ -19,7 +18,7 @@ top -n runs process monitor with outputting maximum iteration or frames count.
 ```
 <br>
 
-Output .bash content using less...wierd thing. It`s bad idea to output binary file
+Output .bash content using command less ... wierd thing. It`s bad idea to output binary file
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/less_bash.png">
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/less_bash_2.png">
