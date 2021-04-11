@@ -19,7 +19,7 @@ top -n runs process monitor with outputting maximum iteration or frames count.
 ```
 <br>
 
-Output .bash content using less
+Output .bash content using less...wierd thing. It`s bad idea to output binary file
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/less_bash.png">
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/less_bash_2.png">
@@ -37,6 +37,8 @@ List and it`s flags
 <br>
 
 **Part 2**
+<br>
+
 Tree utulity
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/tree.png">
