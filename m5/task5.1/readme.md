@@ -60,7 +60,7 @@ Directory copied by cp temp/ and deleted by rmdir -r temp/
 
 Hardlink and softlink
 <br>
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/test.jpg">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/hard_and_soft.png">
 <br>
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/hardlinks.jpg">
-<br>
+Having deleted file after creating links hardlink was still working and outputting data and softlink was corrupted.
+Hardlink is a "copy", softlink is a "pointer".
