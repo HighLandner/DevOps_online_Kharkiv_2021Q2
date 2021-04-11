@@ -11,12 +11,11 @@ Determined users and their brief info.
 Command **usermod -l uswer user** changes username from "user" to "uswer".
 <br>
 Commands:
+
 <br>
 ```
-**passwd -d** deletes user password
-**passwd -l** locks user password
-**top -h** runs process monitor in library version
-**top -n** runs process monitor with outputting maximum
-<br>
-iteration or frames count
+**passwd -d** deletes user password;
+**passwd -l** locks user password;
+**top -h** runs process monitor in library version;
+**top -n** runs process monitor with outputting maximum iteration or frames count.
 ```
