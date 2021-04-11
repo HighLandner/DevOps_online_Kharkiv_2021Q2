@@ -1,4 +1,4 @@
-**Task 5.1**
+**Task 5.1/Part 1**
 <br>
 Determined users and their brief info.
 <br>
@@ -20,3 +20,6 @@ Commands:
 **top -n** runs process monitor with outputting maximum iteration or frames count.
 ```
 <br>
+Output .bash content using **less**
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/less_bash.png">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/less_bash_2.png">
