@@ -26,17 +26,21 @@ Output .bash content using less
 <br>
 
 Finger utility
+<br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/finger.png">
 <br>
 
 List and it`s flages
+<br>
 <imf src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/ls%20-a.png">
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/ls%20-l.png">
 <br>
 
 Tree utulity
+<br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/tree.png">
 <br>
 
 Command file determines filetype
+<br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/filetype.png">
