@@ -20,6 +20,7 @@ top -h runs process monitor in library version;
 top -n runs process monitor with outputting maximum iteration or frames count.
 ```
 <br>
+
 Output .bash content using less
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/less_bash.png">
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/less_bash_2.png">
@@ -36,6 +37,7 @@ List and it`s flages
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/ls%20-l.png">
 <br>
 
+**Part 2**
 Tree utulity
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/tree.png">
@@ -65,6 +67,11 @@ Hardlink and softlink
 Having deleted file after creating links hardlink was still working and outputting data and softlink was corrupted.
 <br>
 Hardlink is a "copy", softlink is a "pointer".
+<br>
+
+Mounted particions
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.1/images/devices.png">
 <br>
 
 Locate utility
