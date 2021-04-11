@@ -10,8 +10,8 @@ Determined users and their brief info.
 <br>
 Command **usermod -l uswer user** changes username from "user" to "uswer".
 <br>
-Commands:
 
+Commands:
 <br>
 ```
 **passwd -d** deletes user password;
