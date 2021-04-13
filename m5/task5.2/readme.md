@@ -31,7 +31,7 @@
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.2/images/la.png">
 <br>
 
-**chmod 755** to file provides full-access to user, just read-executable to gruop and others.
+**chmod 755** to file provides full-access to user, just read-executable to group and others. Sticky bit is absent. Stickey bit is a bit that prevent user to delete directory, command interpretation - chmod 1755 filename, where 1 is a stikey bit pointer.
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.2/images/rwx.png"> 
 <br>
