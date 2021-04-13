@@ -20,14 +20,14 @@
 <br>
 **userdel** deletes user account.
 <br>
+**sudo deluser username** with --remove-all-files parameter deletes user with all his data.
+<br>
 **usermod** changes user options. -l parameter changes user`s name, -g adds user to certain group, -l locks user account.
 <br>
-
 **skell_dir** is a directory that contains copy files to recently created directory.
 <br>
 
-**sudo deluser username** with --remove-all-files parameter deletes user with all his data.
-<br>
+
 
 
 
