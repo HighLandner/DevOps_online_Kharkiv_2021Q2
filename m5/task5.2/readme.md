@@ -27,8 +27,10 @@
 **skell_dir** is a directory that contains copy files to recently created directory.
 <br>
 
-
-
+**Extended directory info**. 
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.2/images/la.png">
+<br>
 
 
 
