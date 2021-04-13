@@ -31,6 +31,12 @@
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.2/images/la.png">
 <br>
 
+**chmod 755** to file provides full-access to user, just read-executable to gruop and others.
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.2/images/rwx.png"> 
+<br>
+
+
 
 
 
