@@ -27,7 +27,7 @@
 **skell_dir** is a directory that contains copy files to recently created directory.
 <br>
 
-**Extended directory info**. Info contains UGO rights (- is a regular file, d is directory, b is block device, c is character device, l is symbolik link, p is pipe, s is socket; rwx is read, write and executable right; t is sticky bit), group that directory belongs, creation date, PID. 
+**Extended directory info**. Info contains UGO rights (**-** is a regular file, d is directory, b is block device, c is character device, l is symbolik link, p is pipe, s is socket; rwx is read, write and executable right; t is sticky bit), group that directory belongs, creation date, PID. 
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.2/images/la.png">
 <br>
 
