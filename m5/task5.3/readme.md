@@ -7,7 +7,7 @@
 
 **pstree -h** outputs running processes and their ancestors.
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/pstree%20-h.png">
 <br>
 
 **procfs** is a file system that allows to receive access to info about sys processes from core.
@@ -15,42 +15,37 @@
 
 **lscpu**
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/processor.png">
 <br>
 
 **ps -gua**
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/gua.png">
 <br>
 
 **ps -e**
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/ps%20-e.png">
 <br>
 
 **ps -u username**
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/ps%20-u.png">
 <br>
 
 **ps -el**
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/ps%20-el.png">
 <br>
 
 **top**
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/processes.png">
 <br>
 
 **top -u username**
 <br>
-<img src="">
-<br>
-
-**top parameters**
-<br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/more%20processes.png">
 <br>
 
 Command **nice** and **renice**
