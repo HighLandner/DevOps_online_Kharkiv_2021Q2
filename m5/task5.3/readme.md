@@ -13,12 +13,12 @@
 **procfs** is a file system that allows to receive access to info about sys processes from core.
 <br>
 
-**lscpu**
+**lscpu** command outputs processor info.
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/processor.png">
 <br>
 
-**ps -gua**
+**ps -gua** outputs process info with group, user and arguments.
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/gua.png">
 <br>
@@ -38,20 +38,20 @@
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/ps%20-el.png">
 <br>
 
-**top**
+**top** command outputs processes in real time.
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/processes.png">
 <br>
 
-**top -u username**
+**top -u username** outputs processes in real time with username parameter.
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/more%20processes.png">
 <br>
 
-Command **nice** and **renice**
+Command **nice** and **renice** sets and resets process priority.
 <br>
 
-Command **kill parameters**: -91, -l 11, -L.
+Command **kill parameters**: -91 kills all available processes, -l 11 sends 11 to signal, -L. Sends signals to processes.
 <br>
 
 **jobs**, **bg** and **fg** are commands to option background processes.
@@ -63,9 +63,9 @@ Command **kill parameters**: -91, -l 11, -L.
 **Part 2**
 <br>
 
-**sudo apt-get install openssh-server**
+**sudo apt-get install openssh-server** installs openssh server.
 <br>
-**sudo ufw allow ssh**
+**sudo ufw allow ssh** allows ssh connection. 
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/allow.png">
 <br>
@@ -81,5 +81,5 @@ The most simple **ssh security** upgrade is to change default **port 22** to any
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/ch_port.png">
 <br>
 
-**Port forwarding** implements: ssh -L 22000:192.168.0.106:22 
+**Port forwarding** implements: ssh -L 22000:192.168.0.106:22 10.0.2.15
 	
