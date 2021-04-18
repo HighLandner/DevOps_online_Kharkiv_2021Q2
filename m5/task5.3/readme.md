@@ -67,18 +67,18 @@ Command **kill parameters**: -91, -l 11, -L.
 <br>
 **sudo ufw allow ssh**
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/allow.png">
 <br>
 Connected from host
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/ssh_win.png">
 <br>
 
 The most simple **ssh security** upgrade is to change default **port 22** to any other.
 <br>
 **nano /etc/ssh/sshd_config** runs text editor where one should change port 22 > port 22000 (for instance 22000).
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.3/images/ch_port.png">
 <br>
 
 **Port forwarding** implements: ssh -L 22000:192.168.0.106:22 
