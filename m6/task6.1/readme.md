@@ -24,4 +24,8 @@ Configurating internal net interface in **/etc/network/interface.conf** both at 
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m6/task6.1/images/tracert_epam.png">
 <br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m6/task6.1/images/host_tracert.png">
+<br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m6/task6.1/images/routing%20tables.png">
+<br>
 
