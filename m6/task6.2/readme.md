@@ -23,3 +23,6 @@ subnet 192.168.0.0 netmask 255.255.255.0 {
  option domain-name-servers 192.168.0.1;
 }
 ```
+<br>
+where default-lease-time is sevrer rent time if client didn`t ask for another, range - available address range, option router and option DNS - is server`s address.
+<br>
