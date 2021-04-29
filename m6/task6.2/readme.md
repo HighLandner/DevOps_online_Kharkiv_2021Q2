@@ -7,7 +7,7 @@ Configurating **/etc/dhcp/dhcp.conf** at both clients` workstations.
 <br>
 ```
 auto enp0s3
-iface enp0s3 dhcp
+iface enp0s3 inet dhcp
 ```
 <br>
 
@@ -24,5 +24,38 @@ subnet 192.168.0.0 netmask 255.255.255.0 {
 }
 ```
 <br>
-where default-lease-time is sevrer rent time if client didn`t ask for another, range - available address range, option router and option DNS - is server`s address.
+where default-lease-time is server rent time if client didn`t ask for another, range - available address range, option router and option DNS - is server`s address.
 <br>
+
+**DHCP** using **dnsmasq**.
+<br>
+
+Configurating **/etc/network/interface** at both clients` workstations.
+<br>
+```
+auto enp0s3
+iface enp0s3 inet dhcp
+```
+<br>
+
+Configurating **/etc/network/interface** at server`s workstation.
+<br>
+```
+auto enp0s3
+iface enp0s3 inet static
+address 192.168.1.1
+network 192.168.1.0
+netmask 255.255.255.0
+broadcast 192.168.1.255
+```
+<br>
+
+Configurating **/etc/dnsmasq.conf**. Searching for **dhcp-range** and changing it.
+<br>
+```
+dhcp-range=192.168.1.5,192.168.1.10,12h
+```
+<br>
+that will allow to generate five ip addresses.
+<br>
+
