@@ -27,6 +27,7 @@ subnet 192.168.0.0 netmask 255.255.255.0 {
 where default-lease-time is server rent time if client didn`t ask for another, range - available address range, option router and option DNS - is server`s address.
 <br>
 
+<br>
 **DHCP** using **dnsmasq**.
 <br>
 
