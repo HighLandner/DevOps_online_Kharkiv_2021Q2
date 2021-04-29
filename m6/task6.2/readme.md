@@ -3,7 +3,7 @@
 
 **DHCP** using **ISCDHCP**.
 <br>
-Configurating **/etc/dhcp/dhcp.conf** at both clients` workstations.
+Configurating **/etc/dhcp/dhcp.conf** at three clients` workstations.
 <br>
 ```
 auto enp0s3
@@ -30,7 +30,7 @@ where default-lease-time is server rent time if client didn`t ask for another, r
 **DHCP** using **dnsmasq**.
 <br>
 
-Configurating **/etc/network/interface** at both clients` workstations.
+Configurating **/etc/network/interface** at three clients` workstations.
 <br>
 ```
 auto enp0s3
@@ -56,6 +56,7 @@ Configurating **/etc/dnsmasq.conf**. Searching for **dhcp-range** and changing i
 dhcp-range=192.168.1.5,192.168.1.10,12h
 ```
 <br>
-that will allow to generate five ip addresses.
+that will allow to generate five ip addresses. Two in advance.
 <br>
+
 
