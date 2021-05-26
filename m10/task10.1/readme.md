@@ -13,59 +13,51 @@ sudo apt install python-pip
 
 Create file hosts.txt and add ansible user:
 <br>
-<img src="" >
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/host_ping1.png" >
 <br>
-7. Modify inventory in ansible config. Check connection again:
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/host_ping2.png" >
 <br>
-<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m10/task10.1/images/host2.png" >
+
+**Inventory, shell, changes and removement:**
 <br>
-8. Some commands:
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/inventory_list.png">
 <br>
-<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m10/task10.1/images/inventory.png" >
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/shell.png" >
 <br>
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/change_1.png" >
 <br>
-<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m10/task10.1/images/shell.png" >
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/change_2.png" >
 <br>
-<br>
-<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m10/task10.1/images/changing.png" >
-<br>
-<br>
-<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m10/task10.1/images/change2.png" >
-<br>
-<br>
-<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m10/task10.1/images/rm.png" >
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/remove.png" >
 <br>
  
 **Playbooks**
 The first one:
 <br>
-<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m10/task10.1/images/pb1.png" >
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/playbook1.png" >
 <br>
 
 The second one:
 <br>
-<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m10/task10.1/images/pb2.png" >
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/playbook2.png" >
 <br>
 
 The third one:
 <br>
-<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m10/task10.1/images/pb3.png" >
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/playbook3.png" >
 <br>
 
-Results:
+Result:
 <br>
-<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m10/task10.1/images/res1.png" >
-<br>
-<br>
-<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m10/task10.1/images/res2.png" >
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/res.jpg" >
 <br>
 
 The fourth one:
 <br>
-<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m10/task10.1/images/pb4.png" >
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/playbook4.png" >
 <br>
 
 The fifth one:
 <br>
-<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m10/task10.1/images/pb5.png" >
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/playbook5.png" >
 <br>
