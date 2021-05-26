@@ -3,11 +3,12 @@
 Before starting first step is to install python and ansible itself.
 All task will be completed on AWS instances.
 ```
-sudo apt-add-repository ppa:ansible/ansible
 sudo apt update
+sudo apt-add-repository ppa:ansible/ansible
 sudo apt install ansible
-ansible--version
 sudo apt install python-pip
+ansible --version
+python --version
 ```
 <br>
 
