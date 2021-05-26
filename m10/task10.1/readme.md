@@ -13,7 +13,7 @@ sudo apt install python-pip
 
 Create file hosts.txt and add ansible user:
 <br>
-<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m10/task10.1/images/host.png" >
+<img src="" >
 <br>
 7. Modify inventory in ansible config. Check connection again:
 <br>
