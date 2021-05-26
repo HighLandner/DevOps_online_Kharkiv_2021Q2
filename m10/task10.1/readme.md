@@ -11,7 +11,8 @@ sudo apt install python-pip
 ```
 <br>
 
-Create file hosts.txt and add ansible user:
+Create file hosts.txt and add ansible user.
+Ping check:
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/host_ping1.png" >
 <br>
@@ -32,6 +33,7 @@ Create file hosts.txt and add ansible user:
 <br>
  
 **Playbooks**
+<br>
 The first one:
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m10/task10.1/images/playbook1.png" >
