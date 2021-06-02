@@ -5,17 +5,17 @@
 <br>
 Dockerfile content:
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m11/task11.1/images/dockfile1.jpg">
 <br>
 Build and run container:
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m11/task11.1/images/build.jpg">
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m11/task11.1/images/run.jpg">
 <br>
 Result:
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m11/task11.1/images/res1.jpg">
 <br>
 
 **Docker with Pyton Webapps:**
@@ -33,24 +33,20 @@ nano index.html
 nano Dockerfile	
 ```
 <br>
-App.py contents gifs and images:
+App.py contents images:
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m11/task11.1/images/py.jpg">
 <br>
 Dockefile configurations:
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m11/task11.1/images/dockfile2.jpg">
 <br>
 index.html content:
 <br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m11/task11.1/images/html.jpg">
 <br>
-Build and run:
+Server recieves connect requests...but something went wrong(
 <br>
-<img src="">
-<br>
-Result:
-<br>
-<img src="">
+<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m11/task11.1/images/res2.jpg">
 <br>
 
