@@ -46,6 +46,7 @@ index.html content:
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m11/task11.1/images/html.jpg">
 <br>
 Server recieves connect requests...but something went wrong(
+There must be randomly chosen image among two variants in box:
 <br>
 <img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m11/task11.1/images/res2.jpg">
 <br>
