@@ -23,14 +23,14 @@ Result:
 App directory:
 <br>
 ```
-mkdir flask-app
-cd flask-app/
-nano app.py
-nano requirements.txt
-mkdir templates
-cd templates/
-nano index.html
-nano Dockerfile	
+$mkdir flask-app
+$cd flask-app/
+$nano app.py
+$nano requirements.txt
+$mkdir templates
+$cd templates/
+$nano index.html
+$nano Dockerfile	
 ```
 <br>
 App.py contents images:
