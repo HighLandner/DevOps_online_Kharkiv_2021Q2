@@ -5,15 +5,17 @@
 <br>
 Dockerfile content:
 <br>
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m11/task11.1/images/dockfile1.png">
+<img src="">
 <br>
 Build and run container:
 <br>
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m11/task11.1/images/build_and_run1.png">
+<img src="">
+<br>
+<img src="">
 <br>
 Result:
 <br>
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m11/task11.1/images/res1.png">
+<img src="">
 <br>
 
 **Docker with Pyton Webapps:**
